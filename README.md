@@ -1,3 +1,3 @@
 # HtmlCssJs
 
-##this is studying record of HTML, CSS, JavaScript
+## this is studying record of HTML, CSS, JavaScript
